@@ -1,0 +1,55 @@
+#navbar_holder{
+    height: 100%;
+    width:auto ;
+    border:2px solid black;
+    font-size: 20px;
+    display: flex;
+    color: white;
+    justify-content: center;
+
+}
+span{
+    margin:10px;
+    font-size: 20px;
+}
+body{
+    background-color:black;
+}
+.fa-solidfa-magnifying-glass{
+    color: white;
+}
+.fa-sharpfa-solidfa-cart-shopping{
+    color: white;
+    
+}
+#sec{
+    height:100%;
+    width: auto;
+    text-align: center;
+    color: white;
+} 
+#ab{
+    color: orange;
+}
+#heading{
+color: white;
+height:100%;
+width: auto;
+}
+#para{
+    color: white;
+    height:100%;
+    width: auto;
+    }
+.img{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;/*text flow around image*/
+}  
+#le{
+    
+}  
+    
+
+
+
